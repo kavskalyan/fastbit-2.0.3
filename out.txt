@@ -1,0 +1,9 @@
+/Users/kalyan/Documents/DBMS/Project/fastbit-2.0.3/examples/.libs/ardea -v 70 -d "tmp1"
+  Will attempt to parse 1 CSV file
+	tests/test0.csv
+ with the following column names and types
+	a:int, b:float, c:short
+
+
+/Users/kalyan/Documents/DBMS/Project/fastbit-2.0.3/examples/.libs/ardea is to read CSV file tests/test0.csv ...
+/Users/kalyan/Documents/DBMS/Project/fastbit-2.0.3/examples/.libs/ardea read 100 rows from tests/test0.csv

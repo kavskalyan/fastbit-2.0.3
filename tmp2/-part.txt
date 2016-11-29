@@ -1,0 +1,24 @@
+# meta data for data partition tmp2 written by ibis::tafel::writeData on Mon Nov 28 17:14:50 2016
+
+BEGIN HEADER
+Name = tmp2
+Description = /Users/kalyan/Documents/DBMS/Project/fastbit-2.0.3/examples/.libs/ardea -d tmp2 -m a:int, b:float, c:short -t tests/test0.csv
+Number_of_rows = 100
+Number_of_columns = 3
+Timestamp = 1480371290
+END HEADER
+
+Begin Column
+name = a
+data_type = INT
+End Column
+
+Begin Column
+name = b
+data_type = FLOAT
+End Column
+
+Begin Column
+name = c
+data_type = SHORT
+End Column
